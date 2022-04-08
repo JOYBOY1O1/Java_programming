@@ -2,7 +2,7 @@ package Conditionals;
 
 import java.util.*;
 
-class Conditionals {
+class P1_Conditionals {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 

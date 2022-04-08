@@ -2,7 +2,7 @@ package Conditionals;
 
 import java.util.Scanner;
 
-class odd_even {
+class P2_Odd_Even {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Scanner_class
+class P3_Scanner
 {
     public static void main(String args[]) 
     {   

@@ -1,4 +1,4 @@
-class Print 
+class P2_Print 
 {
     public static void main(String args[])
     {
