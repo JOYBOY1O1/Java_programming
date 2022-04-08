@@ -14,7 +14,18 @@ public class Assignment {
         System.out.println(n1+n2);  
         n1 += 5;
         System.out.println(n1);  
-        System.out.println(n1+n2);  
+        System.out.println(n1+n2); 
 
+        n1 -= 15;   // 50 - 15
+        System.out.println(n1);  
+        
+        n1 *= 5;    // 35 * 5
+        System.out.println(n1);  
+        
+        n1 /= 5;    //175 / 5
+        System.out.println(n1);  
+        
+        n1 %= 5;    //35 % 5 remainder = 0
+        System.out.println(n1);  
     }
 }
