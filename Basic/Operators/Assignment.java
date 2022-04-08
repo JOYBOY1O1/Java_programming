@@ -1,10 +1,8 @@
 package Operators;
 
-import java.util.Scanner;
-
 /*
 OPERATORS in Java
-Assignment Operator
+Assignment Operator [=]
 */
 public class Assignment {
     public static void main(String[] args) {
