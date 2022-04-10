@@ -14,7 +14,7 @@ public class BinarySearchIterative {
             if (arr[mid] == key)
                 return mid;
 
-            if (arr[mid] < key)
+            if (arr[mid] <= key)
                 left = mid + 1;
 
             else
