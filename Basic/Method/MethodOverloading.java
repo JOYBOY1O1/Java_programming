@@ -1,7 +1,7 @@
 package Method;
 
 // Methods having same name and different parameters.
-// Method overloading cannot be done by changing return type of a function. 
+// Method overloading cannot be done by changing return type of a function. eg. void to int.
 
 public class MethodOverloading {
     
