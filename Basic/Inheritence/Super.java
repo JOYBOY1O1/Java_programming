@@ -1,5 +1,5 @@
 package Inheritence;
-
+// super() :A reference variable used to refer immediate parent class object.
 class ClassOne {
     int a;
 
@@ -18,7 +18,7 @@ class ClassOne {
 
 class ClassTwo extends ClassOne {
     ClassTwo(int c) {
-        super(c);
+        super(c); // this runs constructor ClasOne(int a)
         System.out.println("I am a constructor");
     }
 }
