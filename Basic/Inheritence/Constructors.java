@@ -39,7 +39,7 @@ public class Constructors {
         // Base1 b = new Base1(); //#runs only Base Class contructor
         // Derived1 d = new Derived1();// #runs Base class contructor first then Derieved class
         // Derived1 d = new Derived1(14, 9);
-        // ChildOfDerived cd = new ChildOfDerived();
-        ChildOfDerived cd = new ChildOfDerived(12, 13, 15);
+        ChildOfDerived cd = new ChildOfDerived();
+        //ChildOfDerived cd = new ChildOfDerived(12, 13, 15);
     }
 }
