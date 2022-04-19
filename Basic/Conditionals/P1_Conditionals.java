@@ -12,5 +12,7 @@ class P1_Conditionals {
             System.out.println("You are an Adult");
         } else
             System.out.println("You are a Minor");
+        
+            sc.close();
     }
 }

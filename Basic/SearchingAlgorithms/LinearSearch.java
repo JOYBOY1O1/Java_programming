@@ -37,6 +37,7 @@ public class LinearSearch {
         } else {
             System.out.println("Element = " +key +" found at Index: " + result);
         }
+        sc.close();
 
     }
 }

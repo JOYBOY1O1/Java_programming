@@ -19,5 +19,6 @@ public class ArrayWithoutAllocate {
             System.out.print(" " + Integer.parseInt(arr[i]));
         }
         System.out.println("\nSize of array: " + arr.length );
+        sc.close();
     }
 }

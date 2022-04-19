@@ -12,5 +12,6 @@ class P2_Odd_Even {
             System.out.println(n + " is an even number.");
         } else
             System.out.println(n + " is an odd number.");
+        sc.close();
     }
 }

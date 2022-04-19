@@ -23,5 +23,6 @@ class P3_Scanner
 
         System.out.println(name);
         System.out.println(num);
+        sc.close();
     }    
 }

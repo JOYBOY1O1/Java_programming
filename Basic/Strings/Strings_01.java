@@ -12,6 +12,6 @@ public class Strings_01 {
         System.out.println("String.toUppercase(): "+ a.toUpperCase());
         System.out.println("String.toLowerCase(): "+ a.toLowerCase());
 
-        
+        sc.close();
     }
 }

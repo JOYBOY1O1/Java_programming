@@ -41,5 +41,6 @@ public class BinarySearch {
             System.out.println("Element not present");
         else
             System.out.println("Element found at index " + result);
+        sc.close();
     }
 }

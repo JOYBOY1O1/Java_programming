@@ -24,7 +24,7 @@ public class P3_Switch {
 
             default:
                 System.out.println("Invalid option");
-
+            sc.close();
         }
 
     }
